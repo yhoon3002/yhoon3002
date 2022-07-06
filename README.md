@@ -7,10 +7,12 @@
 <div>
 <br/>
 <br/>
-  
+
 <div align="center">
-<h2>✉️ SNS list ✉️</h2>
-  <br/>
+
+## ✉️ SNS list ✉️
+  <br />
+  <br />
   
   <a href="https://www.facebook.com/yhoon3002" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white"/></a>
   <a href="https://www.instagram.com/hoony.97/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
