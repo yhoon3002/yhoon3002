@@ -2,7 +2,16 @@
 
 <div align="center">
 
+![yhoon3002's github stats](https://github-readme-stats.vercel.app/api?username=yhoon3002&show_icons=true&theme=buefy)
+
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyhoon3002&count_bg=%239073DB&title_bg=%23BCBCF2&icon=opsgenie.svg&icon_color=%23EFF0EF&title=hits&edge_flat=false)](https://github.com/yhoon3002)
+
+<br/>
+<br/>
+
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=yhoon3002)](https://solved.ac/yhoon3002)
 
 <div>
 <br/>
@@ -82,5 +91,3 @@
 
 <br/>
 <br/>
-
-![yhoon3002's github stats](https://github-readme-stats.vercel.app/api?username=yhoon3002&show_icons=true&theme=buefy)
