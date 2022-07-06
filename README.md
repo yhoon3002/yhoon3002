@@ -83,4 +83,4 @@
 <br/>
 <br/>
 
-![yhoon3002's github stats](https://github-readme-stats.vercel.app/api?username=yhoon3002&show_icons=true)
+![yhoon3002's github stats](https://github-readme-stats.vercel.app/api?username=yhoon3002&show_icons=true&theme=buefy)
