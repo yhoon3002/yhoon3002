@@ -8,6 +8,9 @@
 
 <div align="center">
 ✉️SNS list✉️
+  <br/>
+  <a href="https://www.facebook.com/yhoon3002" target="_blank"><img src="https://img.shields.io/badge/facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white"/></a>
+  
 </div>
 
 <!--
