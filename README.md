@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=welcome&desc=%20yhoon3002's%20Github%20Profile&fontSize=100&animation=twinkling&fontAlign=50&fontAlignY=38&descSize=28&descAlign=66&descAlignY=55&stroke=8ED813&strokeWidth=2)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4,5,30&height=300&section=header&text=welcome&desc=%20yhoon3002's%20Github%20Profile&fontSize=100&animation=twinkling&fontAlign=50&fontAlignY=38&descSize=28&descAlign=66&descAlignY=55&stroke=8ED813&strokeWidth=2)
 
 <div align="center">
 
@@ -11,7 +11,6 @@
 <div align="center">
 
 ## ✉️ SNS list ✉️
-  <br />
   <br />
   
   <a href="https://www.facebook.com/yhoon3002" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white"/></a>
